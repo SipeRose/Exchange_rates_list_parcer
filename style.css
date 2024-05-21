@@ -1,0 +1,12 @@
+div {
+    text-align: center;
+}
+
+select {
+    height: 25px;
+}
+
+button {
+    border-radius: 10px;
+    border-color: red;
+}
